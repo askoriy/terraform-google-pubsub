@@ -7,6 +7,17 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0](https://www.github.com/terraform-google-modules/terraform-google-pubsub/compare/v1.9.0...v2.0.0) (2021-03-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* add Terraform 0.13 constraint and module attribution (#64)
+
+### Features
+
+* add Terraform 0.13 constraint and module attribution ([#64](https://www.github.com/terraform-google-modules/terraform-google-pubsub/issues/64)) ([bf6a051](https://www.github.com/terraform-google-modules/terraform-google-pubsub/commit/bf6a051fdc6346ca6966467e56643a3a7a358eb7))
+
 ## [1.9.0](https://www.github.com/terraform-google-modules/terraform-google-pubsub/compare/v1.8.0...v1.9.0) (2021-02-02)
 
 
